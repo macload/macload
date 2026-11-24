@@ -1,6 +1,6 @@
 # Salut, moi c'est Cédric 👋
 
-Développeur web indépendant, je conçois et je fais tourner mes propres applications, de la première ligne de code à la mise en ligne.
+Développeur web indépendant, je conçois et fais tourner mes propres applications, de la première ligne de code à la mise en ligne.
 Deux projets en production aujourd'hui : une application de listes de cadeaux et un jeu mobile.
 
 ---
